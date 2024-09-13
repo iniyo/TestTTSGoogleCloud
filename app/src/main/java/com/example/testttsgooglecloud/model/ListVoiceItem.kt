@@ -18,12 +18,6 @@ data class ListVoiceItem(
 )
 
 
-enum class SupportLanguage(val languageCode: String) {
-    KR("ko-KR"),
-    US("en-US"),
-    JP("ja-JP"),
-}
-
 enum class SsmlVoiceGender(
     val gender: String
 ) {

@@ -1,10 +1,10 @@
 package com.example.testttsgooglecloud.entity
 
 
-import com.example.testttsgooglecloud.model.AudioConfig
-import com.example.testttsgooglecloud.model.EnableTimePointing
-import com.example.testttsgooglecloud.model.Input
-import com.example.testttsgooglecloud.model.PostVoiceItem
+import com.example.testttsgooglecloud.model.TTSRequest.AudioConfig
+import com.example.testttsgooglecloud.model.TTSRequest.EnableTimePointing
+import com.example.testttsgooglecloud.model.TTSRequest.Input
+import com.example.testttsgooglecloud.model.TTSRequest.PostVoiceItem
 
 data class PostText(
     val input: Input,

@@ -1,4 +1,4 @@
-package com.example.testttsgooglecloud.model
+package com.example.testttsgooglecloud.model.TTSRequest
 
 /**
  * Data class representing the configuration for audio synthesis.

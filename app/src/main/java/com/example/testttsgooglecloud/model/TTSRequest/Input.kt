@@ -1,4 +1,4 @@
-package com.example.testttsgooglecloud.model
+package com.example.testttsgooglecloud.model.TTSRequest
 
 
 data class Input(
